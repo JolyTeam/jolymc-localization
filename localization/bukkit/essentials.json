@@ -1,0 +1,38 @@
+{
+  "CHAT_COOLDOWN": {
+    "ru": "§8[§6§lAP§8] §6§l> §fПодождите немного перед отправкой повторного сообщения в чат!"
+  },
+  "CHAT_GLOBAL": {
+    "ru": "§8[§aG§8] {player} §8: {message}"
+  },
+  "CHAT_LOCAL": {
+    "ru": "§8[§7L§8] {player} §8: {message}"
+  },
+  "CHAT_ANNOUNCE_PROFANITY": {
+    "ru": "§fВ вашем сообщение содержится ненормативная лексика!"
+  },
+  "CHAT_ANNOUNCE_SYMBOLS": {
+    "ru": "§fВ вашем сообщение содержатся запрещенные символы!"
+  },
+  "CHAT_ANNOUNCE_CAPS": {
+    "ru": "§fВ вашем сообщение содержатся много капса!"
+  },
+  "CHAT_REASON_CAPS": {
+    "ru": "КАПС"
+  },
+  "CHAT_REASON_PROFANITY": {
+    "ru": "Ненормативная лексика"
+  },
+  "CHAT_REASON_SYMBOLS": {
+    "ru": "Запрещенные символы"
+  },
+  "CHAT_STAFF": {
+    "ru": "§8[§6§lSTAFF§8] §6§l> §fПредотвращено нарушение в чате от игрока {player}"
+  },
+  "CHAT_STAFF_HOVER": {
+    "ru": [
+      "§fПричина: §6{reason}",
+      "§fТекст: §6{message}"
+    ]
+  }
+}

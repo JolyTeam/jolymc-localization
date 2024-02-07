@@ -1,0 +1,14 @@
+{
+  "LOCALIZATION_MENU_TITLE": {
+    "ru": "Выбор языка сервера",
+    "en": "Server language selection",
+    "ua": "Вибір мови сервера",
+    "by": "Выбар мовы сервера"
+  },
+  "LOCALIZATION_MENU_MESSAGE": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВаша локализация изменена с {old_localization} на {new_localization}",
+    "en": "§8[§6§lAP§8] §6§l> §fYour localization has been changed from {old_localization} to {new_localization}",
+    "ua": "§8[§6§lAP§8] §6§l> §fВаша локалізація змінена з {old_localization} на {new_localization}",
+    "by": "§8[§6§lAP§8] §6§l> §fВаша лакалізацыя зменена з {old_localization} на {new_localization}"
+  }
+}

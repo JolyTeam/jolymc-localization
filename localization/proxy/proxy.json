@@ -1,0 +1,81 @@
+{
+  "PROXY_WORKING_MOTD": {
+    "ru": [
+      "                    <gold><b><st>    </st></b></gold><dark_gray><b><st>[</st></b></dark_gray><gradient:#fbf6cc:#ffcea2>JolyMine</gradient><dark_gray><b><st>]</st></b></dark_gray><gold><b><st>    </st></b></gold><reset>",
+      "             <gradient:#fbf6cc:#ffcea2>☬ Глобальное обновление ☬</gradient>"
+    ]
+  },
+  "PROXY_WHITELIST_MOTD": {
+    "ru": [
+      "                    <gold><b><st>    </st></b></gold><dark_gray><b><st>[</st></b></dark_gray><gradient:#fbf6cc:#ffcea2>JolyMine</gradient><dark_gray><b><st>]</st></b></dark_gray><gold><b><st>    </st></b></gold><reset>",
+      "             <gradient:#fbf6cc:#ffcea2>☬ Закрытое тестирование ☬</gradient>"
+    ]
+  },
+  "PROXY_ERROR_MOTD": {
+    "ru": [
+      "                    <gold><b><st>    </st></b></gold><dark_gray><b><st>[</st></b></dark_gray><gradient:#fbf6cc:#ffcea2>JolyMine</gradient><dark_gray><b><st>]</st></b></dark_gray><gold><b><st>    </st></b></gold><reset>",
+      "     <gradient:#fbf6cc:#ffcea2>☬ Отсутствует связь с координатором ☬</gradient>"
+    ]
+  },
+  "PROXY_WORKING_HOVER": {
+    "ru": [
+      "§fВерсия сервера: §61.12.2 §8- §61.20",
+      "§fСтатус: §2Работает"
+    ]
+  },
+  "PROXY_WHITELIST_HOVER": {
+    "ru": [
+      "§fВерсия сервера: §61.12.2 §8- §61.20",
+      "§fСтатус: §eТехнические работы"
+    ]
+  },
+  "PROXY_ERROR_HOVER": {
+    "ru": [
+      "§fВерсия сервера: §61.12.2 §8- §61.20",
+      "§fСтатус: §4Не работает"
+    ]
+  },
+  "PROXY_FULL_SERVER": {
+    "ru": [
+      "§6§m                                               §r",
+      "§7",
+      "§fИгровой сервер §6полностью §fзаполнен",
+      "§fПопробуйте зайти чуть попозже",
+      "§7",
+      "§6§m                                               §r"
+    ]
+  },
+  "PROXY_RESTRICTIONS_IP": {
+    "ru": [
+      "§6§m                                               §r",
+      "§7                                                 §r",
+      "§fНа данном §6IP §fпревышено максимальное кол-во сессий",
+      "§fСкорее всего у вас имеется активный клиент игры",
+      "§fна нашем сервере или вы используете §6VPN §fсервис",
+      "§7                                                 §r",
+      "§6§m                                               §r"
+    ]
+  },
+  "PROXY_WHITELIST_MESSAGE": {
+    "ru": [
+      "§6§m                                               §r",
+      "§7                                                 §r",
+      "§fСервер находится на стадии обновления            §r",
+      "§fПодробная информация находится в группе ВК       §r",
+      "§7                                                 §r",
+      "§6§nvk.com/jolymine                                §r",
+      "§7                                                 §r",
+      "§6§m                                               §r"
+    ]
+  },
+  "PROXY_NO_SUPPORTED_MESSAGE": {
+    "ru": [
+      "§6§m                                               §r",
+      "§7                                                 §r",
+      "§fВаша версия клиента не поддерживается",
+      "§fВерсия сервера: §61.12.2 §8- §61.16.5",
+      "§7                                                 §r",
+      "§6§m                                               §r"
+    ]
+  }
+}

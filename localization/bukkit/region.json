@@ -1,0 +1,75 @@
+{
+  "REGION_INFO": {
+    "ru": [
+      "§8[§6§lAP§8] §6§l> §fИнформация о регионе: §6{region_name}",
+      "§fВладелец: §6{region_owner}",
+      "§fУчастники: §6{region_player}",
+      "§fГраницы: §6{region_border}"
+    ]
+  },
+  "REGION_LIST_NO_FOUND": {
+    "ru": "§8[§6§lAP§8] §6§l> §fУ вас отсутствуют регионы!"
+  },
+  "REGION_CLAIM_FORMAT": {
+    "ru": "§8[§6§lAP§8] §6§l> §fИспользуйте §8- §6/region claim <название региона>"
+  },
+  "REGION_CLAIM": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы успешно создали регион §6{region_name}"
+  },
+  "REGION_CLAIM_SELECTION": {
+    "ru": "§8[§6§lAP§8] §6§l> §fДля создание региона, вам нужно его выделить при помощи топора"
+  },
+  "REGION_CLAIM_LIMIT": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВыделенная территория для создания региона большая, ваш лимит: §6{region_limit}"
+  },
+  "REGION_REMOVE": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы удалили регион §6{region_name}"
+  },
+  "REGION_REMOVE_NO_OWNER": {
+    "ru": "§8[§6§lAP§8] §6§l> §fДля удаления региона §6{region_name}, вы должны быть его владельцем"
+  },
+  "REGION_REMOVE_FORMAT": {
+    "ru": "§8[§6§lAP§8] §6§l> §fИспользуйте §8- §6/region remove <название региона>"
+  },
+  "REGION_ADDMEMBER": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы добавили игрока {player} §fв регион §6{region_name}"
+  },
+  "REGION_ADDMEMBER_FORMAT": {
+    "ru": "§8[§6§lAP§8] §6§l> §fИспользуйте §8- §6/region addmember <игрок> <название региона>"
+  },
+  "REGION_REMOVEMEMBER": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы удалили игрока {player} §fс региона §6{region_name}"
+  },
+  "REGION_REMOVEMEMBER_FORMAT": {
+    "ru": "§8[§6§lAP§8] §6§l> §fИспользуйте §8- §6/region removemember <игрок> <название региона>"
+  },
+  "REGION_HELP_FORMAT": {
+    "ru": [
+      "§8[§6§lAP§8] §6§l> §fПомощь по командам:",
+      "§fПолучить информацию о регионе §8- §6/region info <название региона>",
+      "§fПолучить список регионов §8- §6/region list",
+      "§fСоздать регион §8- §6/region claim <название региона>",
+      "§fУдалить регион §8- §6/region remove <название региона>",
+      "§fДобавить игрока в регион §8- §6/region addmember <название региона>",
+      "§fУдалить игрока из региона §8- §6/region removemember <название региона>"
+    ]
+  },
+  "REGION_GLOBAL": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы не находитесь в регионе!"
+  },
+  "REGION_SPAWN": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы находитесь в регионе: §6Спавн"
+  },
+  "REGION_PVP_ARENA": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы находитесь в регионе: §6PVP Арена"
+  },
+  "REGION_PVP_ARENA_SAFE": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы находитесь в регионе: §6PVP Арена (Безопасная зона)"
+  },
+  "REGION_NO_FOUND": {
+    "ru": "§8[§6§lAP§8] §6§l> §fРегион §6{region_name} не найден!"
+  },
+  "REGION_WAND": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВы получили топор для выделение региона"
+  }
+}
