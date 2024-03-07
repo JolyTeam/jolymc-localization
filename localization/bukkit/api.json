@@ -1,0 +1,54 @@
+{
+  "COMMAND_PLUGIN_NO_FOUND": {
+    "ru": "§8[§6§lJM§8] §6§l> §fПлагин §6{plugin} §fбыл не найден!"
+  },
+  "COMMAND_PLUGIN_ALREADY_ON": {
+    "ru": "§8[§6§lJM§8] §6§l> §fПлагин §6{plugin} §fуже включен"
+  },
+  "COMMAND_PLUGIN_ALREADY_OFF": {
+    "ru": "§8[§6§lJM§8] §6§l> §fПлагин §6{plugin} §fуже выключен!"
+  },
+  "COMMAND_PLUGIN_FORMAT": {
+    "ru": [
+      "§8[§6§lJM§8] §6§l> §fСписок команд:",
+      "§fСписок плагинов §8- §6/plugin list",
+      "§fИнформация о плагине §8- §6/plugin info",
+      "§fВыключить плагин §8- §6/plugin enable",
+      "§fВключить плагин §8- §6/plugin disable",
+      "§fПерезапустить плагин §8- §6/plugin reload"
+    ]
+  },
+  "COMMAND_PLUGIN_LIST": {
+    "ru": "§8[§6§lJM§8] §6§l> §fСписок плагинов: {plugins}"
+  },
+  "COMMAND_PLUGIN_INFO_FORMAT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/plugin info <плагин>"
+  },
+  "COMMAND_PLUGIN_INFO": {
+    "ru": [
+      "§8[§6§lJM§8] §6§l> §fСтатистика о плагине §6{plugin}",
+      "§fСтатус: §6{plugin_enabled}",
+      "§fНазвание: §6{plugin_name}",
+      "§fВерсия: §6{plugin_version}",
+      "§fЗависимости: §6{plugin_depends}"
+    ]
+  },
+  "COMMAND_PLUGIN_ENABLE_FORMAT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/plugin enable <плагин>"
+  },
+  "COMMAND_PLUGIN_ENABLE": {
+    "ru": "§8[§6§lJM§8] §6§l> §fПлагин §6{plugin} §fуспешно включен"
+  },
+  "COMMAND_PLUGIN_DISABLE_FORMAT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/plugin disable <плагин>"
+  },
+  "COMMAND_PLUGIN_DISABLE": {
+    "ru": "§8[§6§lJM§8] §6§l> §fПлагин §6{plugin} §fуспешно выключен"
+  },
+  "COMMAND_PLUGIN_RELOAD_FORMAT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/plugin reload <плагин>"
+  },
+  "COMMAND_PLUGIN_RELOAD": {
+    "ru": "§8[§6§lJM§8] §6§l> §fПлагин §6{plugin} §fуспешно перезагружен"
+  }
+}
