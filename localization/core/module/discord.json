@@ -1,0 +1,37 @@
+{
+  "COMMAND_DISCORD_FORMAT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/discord link/unlink/<Ник игрока>"
+  },
+  "COMMAND_DISCORD_INFO": {
+    "ru": "§8[§6§lJM§8] §6§l> §fДискорд игрока §6%player%§8: §6{tag}"
+  },
+  "COMMAND_DISCORD_LINKED": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВаш аккаунт уже привязан к §6{tag}"
+  },
+  "COMMAND_DISCORD_NO_LINK": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВаш аккаунт не привязан к дискорду"
+  },
+  "COMMAND_DISCORD_NO_LINK_OTHER": {
+    "ru": "§8[§6§lJM§8] §6§l> §fДанный аккаунт не привязан к дискорду"
+  },
+  "COMMAND_DISCORD_UNLINK_SUCCESS": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВы успешно отвязали аккаунт от дискорда"
+  },
+  "DISCORD_HELP_FORMAT": {
+    "ru": [
+      "JolyBot | Список доступных команд:",
+      "\uD83C\uDF6D Создать цитату - /цитата <текст по желанию>",
+      "\uD83C\uDF6D Проверить онлайн - /online"
+    ]
+  },
+  "DISCORD_ONLINE": {
+    "ru": [
+      "Онлайн сервера: {online}"
+    ]
+  },
+  "DISCORD_OFFLINE": {
+    "ru": [
+      "Сервер находится в режиме оффлайн"
+    ]
+  }
+}
