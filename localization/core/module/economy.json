@@ -1,14 +1,8 @@
 {
-  "MONEY_MESSAGE": {
-    "ru": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%crips%, %rubles%",
-    "en": "§8[§6§lAP§8] §6§l> §fYour balance: §6%crips%, %rubles%",
-    "ua": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%crips%, %rubles%",
-    "by": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%crips%, %rubles%"
-  },
-  "CONVERTER_TITLE": {
-    "ru": "§8[§6§lAP§8] §6§l> §fИспользуйте §8- §6/ans <игрок> <ответ>",
-    "en": "§8[§6§lAP§8] §6§l> §fUsage §8- §6/ans <player> <answer>",
-    "ua": "§8[§6§lAP§8] §6§l> §fВикористовуйте §8- §6/ans <гравець> <відповідь>",
-    "by": "§8[§6§lAP§8] §6§l> §fВыкарыстоўвайце §8- §6/ans <гулец> <адказ>"
+  "COMMAND_ECONOMY_BALANCE": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%money%, %crips%",
+    "en": "§8[§6§lAP§8] §6§l> §fYour balance: §6%money%, %crips%",
+    "ua": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%money%, %crips%",
+    "by": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%money%, %crips%"
   }
 }
