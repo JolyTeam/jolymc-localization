@@ -1,0 +1,20 @@
+{
+  "COMMAND_PLAYER_COMMENT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fКомментарий: {text}"
+  },
+  "COMMAND_PLAYER_NO_REGISTER": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИгрок не зарегистрирован на сервере!"
+  },
+  "COMMAND_PLAYER_ONLINE": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИгрок в сети!"
+  },
+  "COMMAND_PLAYER_OFFLINE": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИгрок не в сети!"
+  },
+  "COMMAND_NO_NUMBER": {
+    "ru": "§8[§6§lJM§8] §6§l> §fУказанное вами значение не является числом!"
+  },
+  "COMMAND_NO_TEXT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fУказанное вами значение не является текстом!"
+  }
+}
