@@ -37,5 +37,24 @@
   },
   "COMMAND_ECONOMY_PAY_RECIPIENT": {
     "ru": "§8[§6§lJM§8] §6§l> §fВы получили перевод от игрока {player} §fв размере §6{money} §fмонет"
+  },
+  "COMMAND_ECONOMY_CONVERT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВы успешно конвертировали §6{money} §fрублей в §6{crips}"
+  },
+  "INVENTORY_ECONOMY_CONVERT_TITLE": {
+    "ru": "§6☬ §0| &nКонвертация крипсов"
+  },
+  "INVENTORY_ECONOMY_CONVERT": {
+    "ru": [
+      "",
+      "§fБаланс: §6{money}",
+      "§fРублей: §6{crips}",
+      "",
+      "§6Конвертация:",
+      "§fВы отдаете: §6{value}",
+      "§fВы получаете: §6{new-money}",
+      "",
+      "§8Нажмите, чтобы конвертировать"
+    ]
   }
 }
