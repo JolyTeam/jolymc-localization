@@ -1,38 +1,20 @@
 {
-  "ANSWER_HELP": {
+  "COMMAND_ASK_QUESTION_HELP": {
     "ru": "§8[§6§lAP§8] §6§l> §fИспользуйте §8- §6/ans <игрок> <ответ>",
     "en": "§8[§6§lAP§8] §6§l> §fUsage §8- §6/ans <player> <answer>",
     "ua": "§8[§6§lAP§8] §6§l> §fВикористовуйте §8- §6/ans <player> <answer>",
     "by": "§8[§6§lAP§8] §6§l> §fВыкарыстоўвайце §8- §6/ans <player> <answer>"
   },
-  "ANSWER_NO_PLAYER": {
-    "ru": "§8[§6§lAP§8] §6§l> §fВопрос данного игрока не найден!",
-    "en": "§8[§6§lAP§8] §6§l> §fThis player's question was not found!",
-    "ua": "§8[§6§lAP§8] §6§l> §fПитання даного гравця не знайдено!",
-    "by": "§8[§6§lAP§8] §6§l> §fПытанне дадзенага гульца не знойдзена!"
+  "COMMAND_ASK_ANSWER_SEND": {
+    "ru": "§8[§6§lJM§8] §6§l> §fОтвет на вопрос {player} был успешно отправлен!"
   },
-  "ASK_HELP": {
-    "ru": "§8[§6§lAP§8] §6§l> §fИспользуйте §8- §6/ask <вопрос>",
-    "en": "§8[§6§lAP§8] §6§l> §fUsage §8- §6/ask <question>",
-    "ua": "§8[§6§lAP§8] §6§l> §fВикористовуйте §8- §6/ask <питання>",
-    "by": "§8[§6§lAP§8] §6§l> §fВыкарыстоўвайце §8- §6/ask <пытанне>"
+  "COMMAND_ASK_ANSWER_STAFF": {
+    "ru": "§8[§6§lJM§8] §6§l> {staff_player} §fответил на вопрос игрока {player} - §6 {answer}"
   },
-  "ASK_LIMIT": {
-    "ru": "§8[§6§lAP§8] §6§l> §fДождитесь ответа на предыдущий вопрос!",
-    "en": "§8[§6§lAP§8] §6§l> §fWait for the answer to the previous question!",
-    "ua": "§8[§6§lAP§8] §6§l> §fДочекайтесь відповіді на попереднє запитання!",
-    "by": "§8[§6§lAP§8] §6§l> §fДачакайцеся адказу на папярэдняе пытанне!"
-  },
-  "ASK_SEND": {
-    "ru": "§8[§6§lAP§8] §6§l> §fВаш вопрос был успешно отправлен персоналу проекта!",
-    "en": "§8[§6§lAP§8] §6§l> §fYour question has been successfully sent to the project staff!",
-    "ua": "§8[§6§lAP§8] §6§l> §fВаше питання було успішно відправлено персоналу проекту!",
-    "by": "§8[§6§lAP§8] §6§l> §fВаша пытанне было паспяхова адпраўлены персаналу праекта!"
-  },
-  "ASK_OFFLINE_STAFF": {
-    "ru": "§8[§6§lAP§8] §6§l> §fНа данный момент персонала нету в сети, придется немного подождать :(",
-    "en": "§8[§6§lAP§8] §6§l> §fAt the moment there is no staff on the network, you will have to wait a bit :(",
-    "ua": "§8[§6§lAP§8] §6§l> §fНа даний момент персоналу немає в мережі, доведеться трохи почекати :(",
-    "by": "§8[§6§lAP§8] §6§l> §fНа дадзены момант персаналу няма ў сетцы, прыйдзецца крыху пачакаць :("
+  "COMMAND_ASK_ANSWER_RECEIVED": {
+    "ru": [
+      "§8[§6§lJM§8] §6§l> §fНа ваш вопрос ответил {staff_player}",
+      "§fОтвет: §6{answer}"
+      ]
   }
 }

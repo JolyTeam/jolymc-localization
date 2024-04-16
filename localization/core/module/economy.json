@@ -2,7 +2,7 @@
   "COMMAND_ECONOMY_NO_TYPE": {
     "ru": "§8[§6§lJM§8] §6§l> §fНеизвестный тип валюты!"
   },
-  "COMMAND_ECONOMY_ADMIN_FORMAT": {
+  "COMMAND_ECONOMY_ADMIN_HELP": {
     "ru": [
       "§8[§6§lJM§8] §6§l> §fСписок доступных команд:",
       "§fУзнать баланс игрока §8- §6/economy <игрок> balance",
@@ -26,7 +26,7 @@
   "COMMAND_ECONOMY_BALANCE_NO_CRIPS": {
     "ru": "§8[§6§lJM§8] §6§l> §fУ вас недостаточно крипсов!"
   },
-  "COMMAND_ECONOMY_PAY_FORMAT": {
+  "COMMAND_ECONOMY_PAY_HELP": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/pay <игрок> <кол-во> <комментарий по желанию>"
   },
   "COMMAND_ECONOMY_PAY_SELF": {
