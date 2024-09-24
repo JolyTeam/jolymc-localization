@@ -1,4 +1,7 @@
 {
+  "UPDATE_LOCALIZATION": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВы сменили локализацию на §6{localization}"
+  },
   "COMMAND_PLUGIN_NO_FOUND": {
     "ru": "§8[§6§lJM§8] §6§l> §fПлагин §6{plugin} §fбыл не найден!"
   },

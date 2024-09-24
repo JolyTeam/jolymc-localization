@@ -1,4 +1,16 @@
 {
+  "COMMAND_REGION_TYPE_GLOBAL": {
+    "ru": "Глобальный"
+  },
+  "COMMAND_REGION_TYPE_PLAYER": {
+    "ru": "Игрока"
+  },
+  "COMMAND_REGION_TYPE_SPAWN": {
+    "ru": "Спавн"
+  },
+  "COMMAND_REGION_TYPE_EVENT": {
+    "ru": "Ивент"
+  },
   "REGION_INFO": {
     "ru": [
       "§8[§6§lAP§8] §6§l> §fИнформация о регионе: §6{region_name}",

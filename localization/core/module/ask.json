@@ -1,20 +1,64 @@
 {
   "COMMAND_ASK_QUESTION_HELP": {
-    "ru": "§8[§6§lAP§8] §6§l> §fИспользуйте §8- §6/ans <игрок> <ответ>",
-    "en": "§8[§6§lAP§8] §6§l> §fUsage §8- §6/ans <player> <answer>",
-    "ua": "§8[§6§lAP§8] §6§l> §fВикористовуйте §8- §6/ans <player> <answer>",
-    "by": "§8[§6§lAP§8] §6§l> §fВыкарыстоўвайце §8- §6/ans <player> <answer>"
+    "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/question <вопрос>"
+  },
+  "COMMAND_ASK_QUESTION_LIMIT": {
+    "ru": "§8[§6§lAP§8] §6§l> §fДождитесь ответа на предыдущий вопрос"
+  },
+  "COMMAND_ASK_QUESTION_SEND": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВаш вопрос был успешно отправлен"
+  },
+  "COMMAND_ASK_QUESTION_STAFF": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИгрок {player} §fзадал вопрос: §6{answer}"
+  },
+  "COMMAND_ASK_ANSWER_HELP": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/answer <игрок> <ответ>"
   },
   "COMMAND_ASK_ANSWER_SEND": {
     "ru": "§8[§6§lJM§8] §6§l> §fОтвет на вопрос {player} был успешно отправлен!"
   },
   "COMMAND_ASK_ANSWER_STAFF": {
-    "ru": "§8[§6§lJM§8] §6§l> {staff_player} §fответил на вопрос игрока {player} - §6 {answer}"
+    "ru": "§8[§6§lJM§8] §6§l> {staff_player} §fответил на вопрос игрока {player} - §6{answer}"
+  },
+  "COMMAND_ASK_ANSWER_EMPTY": {
+    "ru": "§8[§6§lJM§8] §6§l> У данного игрока отсутствует вопрос"
   },
   "COMMAND_ASK_ANSWER_RECEIVED": {
     "ru": [
       "§8[§6§lJM§8] §6§l> §fНа ваш вопрос ответил {staff_player}",
       "§fОтвет: §6{answer}"
-      ]
+    ]
+  },
+  "INVENTORY_ASK_INFO_DISPLAY": {
+    "ru": "§6Общая информация"
+  },
+  "INVENTORY_ASK_INFO_LORE": {
+    "ru": "§fВсего вопросов: §6{ask_count}"
+  },
+  "INVENTORY_ASK_DISPLAY": {
+    "ru": "§6Вопрос §f#{id}"
+  },
+  "INVENTORY_ASK_LORE": {
+    "ru": [
+      "",
+      "§fЗадал: {player} {online}",
+      "§fВопрос: §6{ask}",
+      "§fДата: §6{date}",
+      "",
+      "§aНажмите ЛКМ, чтобы ответить на вопрос!",
+      "§cНажмите ПКМ, чтобы удалить вопрос!"
+    ]
+  },
+  "INVENTORY_ASK_EMPTY": {
+    "ru": "§cУпс, ничего не найдено :c"
+  },
+  "INVENTORY_ASK_STAFF_DELETE": {
+    "ru": "§8[§6§lJM§8] §6§l> §f{staff_group} {staff} §fудалил вопрос игрока {player} §8(§6{ask}§8)"
+  },
+  "INVENTORY_ASK_PLAYER_DELETE": {
+    "ru": "§8[§6§lJM§8] §6§l> §fИгрок {staff} §fудалил ваш вопрос! §8(§6{ask}§8)"
+  },
+  "INVENTORY_ASK_PLAYER_REPLY": {
+    "ru": "§8[§6§lJM§8] §6§l> §fДля ответа на вопрос игрока {player} §fнажмите на кнопку ниже"
   }
 }

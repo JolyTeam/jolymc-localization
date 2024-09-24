@@ -1,20 +1,32 @@
 {
-  "COMMAND_PLAYER_COMMENT": {
+  "PLAYER_COMMENT": {
     "ru": "§8[§6§lJM§8] §6§l> §fКомментарий: {text}"
   },
-  "COMMAND_PLAYER_NO_REGISTER": {
+  "PLAYER_NO_REGISTER": {
     "ru": "§8[§6§lJM§8] §6§l> §fИгрок не зарегистрирован на сервере!"
   },
-  "COMMAND_PLAYER_ONLINE": {
+  "PLAYER_ONLINE": {
     "ru": "§8[§6§lJM§8] §6§l> §fИгрок в сети!"
   },
-  "COMMAND_PLAYER_OFFLINE": {
+  "PLAYER_OFFLINE": {
     "ru": "§8[§6§lJM§8] §6§l> §fИгрок не в сети!"
   },
-  "COMMAND_NO_NUMBER": {
+  "PLAYER_NO_ITEM_HAND": {
+    "ru": "§8[§6§lJM§8] §6§l> §fУ вас отсутствует предмет в руке!"
+  },
+  "PLAYER_NO_NUMBER": {
     "ru": "§8[§6§lJM§8] §6§l> §fУказанное вами значение не является числом!"
   },
-  "COMMAND_NO_TEXT": {
+  "PLAYER_NUMBER_LESS": {
+    "ru": "§8[§6§lJM§8] §6§l> §fУказанное вами значение меньше 0!"
+  },
+  "PLAYER_NO_TEXT": {
     "ru": "§8[§6§lJM§8] §6§l> §fУказанное вами значение не является текстом!"
+  },
+  "PLAYER_MINIMAL_GROUP": {
+    "ru": "§8[§6§lJM§8] §6§l> §fДля выполнение команды требуется группа {group} и выше!"
+  },
+  "PLAYER_COOLDOWN": {
+    "ru": "§8[§6§lJM§8] §6§l> §fПодождите еще §6{cooldown} §fдля использования команды!"
   }
 }
