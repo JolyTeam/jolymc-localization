@@ -1,33 +1,36 @@
 {
-  "COMMAND_ASK_QUESTION_HELP": {
+  "ASK_QUESTION_HELP": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/question <вопрос>"
   },
-  "COMMAND_ASK_QUESTION_LIMIT": {
+  "ASK_QUESTION_LIMIT": {
     "ru": "§8[§6§lAP§8] §6§l> §fДождитесь ответа на предыдущий вопрос"
   },
-  "COMMAND_ASK_QUESTION_SEND": {
+  "ASK_QUESTION_SEND": {
     "ru": "§8[§6§lAP§8] §6§l> §fВаш вопрос был успешно отправлен"
   },
-  "COMMAND_ASK_QUESTION_STAFF": {
+  "ASK_QUESTION_STAFF": {
     "ru": "§8[§6§lJM§8] §6§l> §fИгрок {player} §fзадал вопрос: §6{answer}"
   },
-  "COMMAND_ASK_ANSWER_HELP": {
+  "ASK_ANSWER_HELP": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/answer <игрок> <ответ>"
   },
-  "COMMAND_ASK_ANSWER_SEND": {
+  "ASK_ANSWER_SEND": {
     "ru": "§8[§6§lJM§8] §6§l> §fОтвет на вопрос {player} был успешно отправлен!"
   },
-  "COMMAND_ASK_ANSWER_STAFF": {
-    "ru": "§8[§6§lJM§8] §6§l> {staff_player} §fответил на вопрос игрока {player} - §6{answer}"
+  "ASK_ANSWER_STAFF": {
+    "ru": "§8[§6§lJM§8] §6§l> {staff} §fответил на вопрос игрока {player} - §6{answer}"
   },
-  "COMMAND_ASK_ANSWER_EMPTY": {
+  "ASK_ANSWER_EMPTY": {
     "ru": "§8[§6§lJM§8] §6§l> У данного игрока отсутствует вопрос"
   },
-  "COMMAND_ASK_ANSWER_RECEIVED": {
+  "ASK_ANSWER_RECEIVED": {
     "ru": [
       "§8[§6§lJM§8] §6§l> §fНа ваш вопрос ответил {staff_player}",
       "§fОтвет: §6{answer}"
     ]
+  },
+  "INVENTORY_ANSWER_TITLE": {
+    "ru": "§0Актуальные вопросы от игроков"
   },
   "INVENTORY_ASK_INFO_DISPLAY": {
     "ru": "§6Общая информация"
@@ -60,5 +63,11 @@
   },
   "INVENTORY_ASK_PLAYER_REPLY": {
     "ru": "§8[§6§lJM§8] §6§l> §fДля ответа на вопрос игрока {player} §fнажмите на кнопку ниже"
+  },
+  "ASK_JOIN": {
+    "ru": [
+      "§8[§6§lJM§8] §6§l> §fСейчас на сервере актуально §a{asks} от игроков!",
+      "§fОткрыть список вопросов §8- §6/ans"
+    ]
   }
 }

@@ -1,8 +1,8 @@
 {
-  "COMMAND_ECONOMY_NO_TYPE": {
+  "ECONOMY_NO_TYPE": {
     "ru": "§8[§6§lJM§8] §6§l> §fНеизвестный тип валюты!"
   },
-  "COMMAND_ECONOMY_ADMIN_HELP": {
+  "ECONOMY_ADMIN_HELP": {
     "ru": [
       "§8[§6§lJM§8] §6§l> §fСписок доступных команд:",
       "§fУзнать баланс игрока §8- §6/economy <игрок> balance",
@@ -11,44 +11,41 @@
       "§fВычесть из баланса игрока §8- §6/economy <игрок> take <тип валюты> <количество>"
     ]
   },
-  "COMMAND_ECONOMY_ADMIN_BALANCE": {
+  "ECONOMY_ADMIN_BALANCE": {
     "ru": "§8[§6§lJM§8] §6§l> §fБаланс игрока {player} {balance}"
   },
-  "COMMAND_ECONOMY_BALANCE": {
-    "ru": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%money%, %crips%",
-    "en": "§8[§6§lAP§8] §6§l> §fYour balance: §6%money%, %crips%",
-    "ua": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%money%, %crips%",
-    "by": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6%money%, %crips%"
+  "ECONOMY_BALANCE": {
+    "ru": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6{crips}, {rubles}",
+    "en": "§8[§6§lAP§8] §6§l> §fYour balance: §6{crips}, {rubles}",
+    "ua": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6{crips}, {rubles}",
+    "by": "§8[§6§lAP§8] §6§l> §fВаш баланс: §6{crips}, {rubles}"
   },
-  "COMMAND_ECONOMY_BALANCE_NO_MONEY": {
-    "ru": "§8[§6§lJM§8] §6§l> §fУ вас недостаточно монет!"
-  },
-  "COMMAND_ECONOMY_BALANCE_NO_CRIPS": {
+  "ECONOMY_BALANCE_NO_CRIPS": {
     "ru": "§8[§6§lJM§8] §6§l> §fУ вас недостаточно крипсов!"
   },
-  "COMMAND_ECONOMY_PAY_HELP": {
+  "ECONOMY_PAY_HELP": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/pay <игрок> <кол-во> <комментарий по желанию>"
   },
-  "COMMAND_ECONOMY_PAY_SELF": {
+  "ECONOMY_PAY_SELF": {
     "ru": "§8[§6§lJM§8] §6§l> §fВы не можете перевести деньги сами себе!"
   },
-  "COMMAND_ECONOMY_PAY_SENDER": {
-    "ru": "§8[§6§lJM§8] §6§l> §fВы успешно перечислили монеты игроку {player} §fв размере §6{money} §fмонет"
+  "ECONOMY_PAY_SENDER": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВы успешно перечислили монеты игроку {player} §fв размере §6{crips} §fкрипсов"
   },
-  "COMMAND_ECONOMY_PAY_RECIPIENT": {
-    "ru": "§8[§6§lJM§8] §6§l> §fВы получили перевод от игрока {player} §fв размере §6{money} §fмонет"
+  "ECONOMY_PAY_RECIPIENT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВы получили перевод от игрока {player} §fв размере §6{crips} §fкрипсов"
   },
-  "COMMAND_ECONOMY_CONVERT": {
+  "ECONOMY_CONVERT": {
     "ru": "§8[§6§lJM§8] §6§l> §fВы успешно конвертировали §6{money} §fрублей в §6{crips}"
   },
   "INVENTORY_ECONOMY_CONVERT_TITLE": {
-    "ru": "§6☬ §0| &nКонвертация крипсов"
+    "ru": "§6☬ §0| &nКонвертация рублей"
   },
   "INVENTORY_ECONOMY_CONVERT": {
     "ru": [
       "",
-      "§fБаланс: §6{money}",
-      "§fРублей: §6{crips}",
+      "§fБаланс: §6{crips}",
+      "§fРублей: §6{rubles}",
       "",
       "§6Конвертация:",
       "§fВы отдаете: §6{value}",
