@@ -1,0 +1,16 @@
+{
+  "ANTIRELOG_DAMAGER": "§8[§6§lJM§8] §6§l> §fНа вас напал игрок {player}",
+  "ANTIRELOG_TARGET": "§8[§6§lJM§8] §6§l> §fВы напали на игрока {player}",
+  "ANTIRELOG_END": "§8[§6§lJM§8] §6§l> §fРежим §6PVP §fзакончился",
+  "ANTIRELOG_BOARD_LINES": [
+    " &7╔═&l◇ &6&nПрофиль:&r",
+    " &7║ &fНик: &6{nickname}",
+    " &7║ &fГруппа: &6{group}",
+    " &7║ &fПитомец: &6{pet}",
+    " &7║ &fГильдия: &8{guild}",
+    " &7╠═&l◇ &6&nБитва:&r",
+    " &7║ &fДо конца боя&f: &6{time}",
+    " &7║ &fСписок противников&f: &6{enemies}",
+    " &7╚═&l◇ &6&lJolyMC.ru"
+  ]
+}

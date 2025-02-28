@@ -1,77 +1,102 @@
 {
-  "COMMAND_SEND_CORE": {
+  "CORE_INFO": {
+    "ru": [
+      "§8[§6CORE§8] §fИнформация о координаторе:",
+      "§8[§6Игроки§8]",
+      "§8▪ §fПодключено: §6{online}",
+      "§8▪ §fЗащищенных: §6{guarded}",
+      "§8▪ §fАвторизовано: §6{authenticated}",
+      "§8▪ §fАвторизация: §6{auth_count} §8({2fa_count})",
+      "§8▪ §fЗаблокировано: §6{banned}",
+      "§8[§6Модули§8]",
+      "§8▪ §fВсего: §6{modules_total}",
+      "§8▪ §fРаботает: §6{modules_enabled}",
+      "§8[§6Протокол§8]",
+      "§8▪ §fКлиентских пакетов: §6{client_packets}",
+      "§8▪ §fСерверных пакетов: §6{server_packets}",
+      "§8▪ §fПакетов в сек: §6{packets_per_second}",
+      "§8▪ §fТраффик в сек: §6{traffic_per_second}",
+      "§8[§6Сервер§8]",
+      "§8▪ §fСервера Velocity: §6{velocity_count} §8({velocity_list})",
+      "§8▪ §fСервера Bukkit: §6{bukkit_count} §8({bukkit_list})",
+      "§8▪ §fВремя работы: §6{uptime}",
+      "§8▪ §fКоманд зарегистрировано: §6{commands_registered} §8({commands_total})",
+      "§8▪ §fПамять: §6{memory_free}МБ / {memory_max}МБ"
+    ]
+  },
+  "SEND_CORE": {
     "ru": "§8[§6§lJM§8] §6§l> §fКоманда §6/{command} §fбыла отправлена на координатор"
   },
-  "COMMAND_SOCIAL_NULL": {
+  "SOCIAL_NULL": {
     "ru": "§8[§6§lJM§8] §6§l> §fУ вас §6отсутствует §fпривязка"
   },
-  "COMMAND_SOCIAL_DISCORD": {
+  "SOCIAL_DISCORD": {
     "ru": "§8[§6§lJM§8] §6§l> §fТип привязки по умолчанию: §6Дискорд"
   },
-  "COMMAND_SOCIAL_TELEGRAM": {
+  "SOCIAL_TELEGRAM": {
     "ru": "§8[§6§lJM§8] §6§l> §fТип привязки по умолчанию: §6Телеграмм"
   },
-  "COMMAND_SOCIAL_VK": {
+  "SOCIAL_VK": {
     "ru": "§8[§6§lJM§8] §6§l> §fТип привязки по умолчанию: §6Вконтакте"
   },
-  "COMMAND_MODULE_NO_FOUND": {
+  "MODULE_NO_FOUND": {
     "ru": "§8[§6§lJM§8] §6§l> §fДанный модуль не подключен!"
   },
-  "COMMAND_MODULE_FILE_NO_FOUND": {
+  "MODULE_FILE_NO_FOUND": {
     "ru": "§8[§6§lJM§8] §6§l> §fФайл §6{file} §fне существует в директории модулей!"
   },
-  "COMMAND_MODULE_FORMAT": {
+  "MODULE_FORMAT": {
     "ru": [
       "§8[§6§lJM§8] §6§l> §fПомощь по командам",
       "§fВключить модуль §8- §6/module enable <название>"
     ]
   },
-  "COMMAND_MODULE_ENABLED": {
+  "MODULE_ENABLED": {
     "ru": "§8[§6§lJM§8] §6§l> §fМодуль §6{module} §fбыл включен!"
   },
-  "COMMAND_MODULE_ENABLED_FORMAT": {
+  "MODULE_ENABLED_FORMAT": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/module enable <название>"
   },
-  "COMMAND_MODULE_ENABLED_ALREADY": {
+  "MODULE_ENABLED_ALREADY": {
     "ru": "§8[§6§lJM§8] §6§l> §fДанный модуль уже включен!"
   },
-  "COMMAND_MODULE_DISABLED": {
+  "MODULE_DISABLED": {
     "ru": "§8[§6§lJM§8] §6§l> §fМодуль §6{module} §fбыл выключен!"
   },
-  "COMMAND_MODULE_DISABLED_FORMAT": {
+  "MODULE_DISABLED_FORMAT": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/module disable <название>"
   },
-  "COMMAND_MODULE_DISABLED_ALREADY": {
+  "MODULE_DISABLED_ALREADY": {
     "ru": "§8[§6§lJM§8] §6§l> §fДанный модуль уже выключен!"
   },
-  "COMMAND_MODULE_RELOAD": {
+  "MODULE_RELOAD": {
     "ru": "§8[§6§lJM§8] §6§l> §fМодуль §6{module} §fбыл перезагружен!"
   },
-  "COMMAND_MODULE_RELOAD_ALL": {
+  "MODULE_RELOAD_ALL": {
     "ru": "§8[§6§lJM§8] §6§l> §fВсе доступные модули были перезагружены!"
   },
-  "COMMAND_MODULE_RELOAD_FORMAT": {
+  "MODULE_RELOAD_FORMAT": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/module reload <название/*>"
   },
-  "COMMAND_MODULE_LOAD": {
+  "MODULE_LOAD": {
     "ru": "§8[§6§lJM§8] §6§l> §fJAR модуль §6{file} §fбыл найден и загружен!"
   },
-  "COMMAND_MODULE_LOAD_ALL": {
+  "MODULE_LOAD_ALL": {
     "ru": "§8[§6§lJM§8] §6§l> §fВсе модули были отправлены на загрузку!"
   },
-  "COMMAND_MODULE_LOAD_FORMAT": {
+  "MODULE_LOAD_FORMAT": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/module load <имя файла/*>"
   },
-  "COMMAND_MODULE_UNLOAD": {
+  "MODULE_UNLOAD": {
     "ru": "§8[§6§lJM§8] §6§l> §fМодуль §6{module} §fбыл отключен!"
   },
-  "COMMAND_MODULE_UNLOAD_ALL": {
+  "MODULE_UNLOAD_ALL": {
     "ru": "§8[§6§lJM§8] §6§l> §fВсе модули были отправлены на выгрузку!"
   },
-  "COMMAND_MODULE_UNLOAD_FORMAT": {
+  "MODULE_UNLOAD_FORMAT": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/module unload <название/*>"
   },
-  "COMMAND_MODULE_INFO": {
+  "MODULE_INFO": {
     "ru": [
       "§8[§6§lJM§8] §6§l> §fИнформация о модуле §6{module}§f:",
       "§fАвтор: §6{author}",
@@ -80,10 +105,10 @@
       "§fСтатус: §6{enabled}"
     ]
   },
-  "COMMAND_MODULE_INFO_FORMAT": {
+  "MODULE_INFO_FORMAT": {
     "ru": "§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/module info <название>"
   },
-  "COMMAND_MODULE_LIST": {
+  "MODULE_LIST": {
     "ru": "§8[§6§lJM§8] §6§l> §fСписок модулей кора §8({size})§f: {list}"
   }
 }
