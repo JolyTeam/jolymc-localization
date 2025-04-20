@@ -1,10 +1,4 @@
 {
-  "PLAYER_PING": {
-    "ru": "§8[§6§lJM§8] §6§l> §fВаш пинг: §6{ping} §fмс"
-  },
-  "PLAYER_PING_OTHER": {
-    "ru": "§8[§6§lJM§8] §6§l> §fПинг игрока §6{player}§f - §6{ping} §fмс"
-  },
   "PROXY_WORKING_MOTD": {
     "ru": [
       "                     §6§l§m    [§fJolyMine§6]§6§l§m    §r",
@@ -20,7 +14,7 @@
   "PROXY_ERROR_MOTD": {
     "ru": [
       "                     §6§l§m    [§fJolyMine§6]§6§l§m    §r",
-      "               §6☬ §fОтсутствует связь с координатором §6☬"
+      "           §6☬ §fОтсутствует связь с координатором §6☬"
     ]
   },
   "PROXY_WORKING_HOVER": {
