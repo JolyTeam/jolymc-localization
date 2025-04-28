@@ -2,13 +2,10 @@
   "SCOREBOARD_FORMAT": {
     "ru": "§8[§6§lJM§8] §6§l> §fВы {status} правое меню"
   },
-  "SCOREBOARD_MESSAGE": {
-    "ru": ""
-  },
   "DEFAULT_BOARD_LINES": {
     "ru": [
       " §7╔═§l◇ §6§nПрофиль:§r",
-      " §7║ §fНик: §6{nickname}",
+      " §7║ §fНик: §6{player}",
       " §7║ §fГруппа: §6{group}",
       " §7║ §fПитомец: §6{pet}",
       " §7║ §fГильдия: §8{guild}",
