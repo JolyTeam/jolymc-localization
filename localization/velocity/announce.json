@@ -1,0 +1,29 @@
+{
+  "ANNOUNCER_REPORT_MESSAGE": {
+    "ru": "§6❗ Сообщи о нарушителе: §f/§creport"
+  },
+  "ANNOUNCER_REPORT_HOVER": {
+    "ru": "§7Нажми, чтобы открыть меню жалобы"
+  },
+
+  "ANNOUNCER_STREAMS_MESSAGE": {
+    "ru": "§b📺 Смотри стримы игроков: §f/§bstreams"
+  },
+  "ANNOUNCER_STREAMS_HOVER": {
+    "ru": "§7Нажми, чтобы увидеть список стримов"
+  },
+
+  "ANNOUNCER_HELP_MESSAGE": {
+    "ru": "§a📌 Наши ссылки и помощь: §f/vk"
+  },
+  "ANNOUNCER_HELP_HOVER": {
+    "ru": "§7Нажми, чтобы открыть группу ВКонтакте"
+  },
+
+  "ANNOUNCER_ASK_MESSAGE": {
+    "ru": "§e💬 Вопрос? Задай его: §f/ask"
+  },
+  "ANNOUNCER_ASK_HOVER": {
+    "ru": "§7Нажми, чтобы написать вопрос администрации"
+  }
+}
