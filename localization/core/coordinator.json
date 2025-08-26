@@ -17,7 +17,7 @@
       "§8▪ §fПакетов в сек: §6{packets_per_second}",
       "§8▪ §fТраффик в сек: §6{traffic_per_second}",
       "§8[§6Сервер§8]",
-      "§8▪ §fСервера Velocity: §6{velocity_count} §8({velocity_list})",
+      "§8▪ §fСервера Velocity: §6{proxy_count} §8({proxy_list})",
       "§8▪ §fСервера Bukkit: §6{bukkit_count} §8({bukkit_list})",
       "§8▪ §fВремя работы: §6{uptime}",
       "§8▪ §fКоманд зарегистрировано: §6{commands_registered} §8({commands_total})",
