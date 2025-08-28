@@ -1,6 +1,22 @@
 {
-  "SCOREBOARD_FORMAT": {
-    "ru": "§8[§6§lJM§8] §6§l> §fВы {status} боковое меню"
+  "SCOREBOARD_HELP": {
+    "ru": [
+      "§8[§6§lJM§8] §6§l> §fПомощь по боковому меню:",
+      "§fВключить боковое меню §8- §6/sb on",
+      "§fВыключить боковое меню §8- §6/sb off"
+    ]
+  },
+  "SCOREBOARD_ENABLED": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВы §6включили §fбоковое меню"
+  },
+  "SCOREBOARD_DISABLED": {
+    "ru": "§8[§6§lJM§8] §6§l> §fВы §6выключили §fбоковое меню"
+  },
+  "SCOREBOARD_ACTIVE": {
+    "ru": "§8[§6§lJM§8] §6§l> §fБоковое меню уже §6включено"
+  },
+  "SCOREBOARD_INACTIVE": {
+    "ru": "§8[§6§lJM§8] §6§l> §fБоковое меню уже §6выключено"
   },
   "BOARD_DEFAULT": {
     "ru": [
