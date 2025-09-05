@@ -12,22 +12,22 @@
     ]
   },
   "ADMIN_BALANCE": {
-    "ru": "§8[§6§lJM§8] §6§l> §fБаланс игрока {player} на сервере §6{server}§f: §6{balance}"
+    "ru": "§8[§6§lJM§8] §6§l> §fБаланс игрока {player} §fна сервере §6{server}§f: §6{balance}"
   },
   "ECONOMY_SET": {
-    "ru": "§8[§6§lJM§8] §6§l> §fВы установили игроку {player}: §6{value}"
+    "ru": "§8[§6§lJM§8] §6§l> §fВы установили игроку {player}§f: §6{value}"
   },
   "ECONOMY_PUT": {
-    "ru": "§8[§6§lJM§8] §6§l> §fВы добавили игроку {player}: §6{value}"
+    "ru": "§8[§6§lJM§8] §6§l> §fВы добавили игроку {player}§f: §6{value}"
   },
   "ECONOMY_TAKE": {
-    "ru": "§8[§6§lJM§8] §6§l> §fВы забрали у игрока {player}: §6{value}"
+    "ru": "§8[§6§lJM§8] §6§l> §fВы забрали у игрока {player}§f: §6{value}"
   },
   "BALANCE": {
-    "ru": "§8[§6§lJM§8] §6§l> §fВаш баланс: §6{crips}, {rubles}",
-    "en": "§8[§6§lJM§8] §6§l> §fYour balance: §6{crips}, {rubles}",
-    "ua": "§8[§6§lJM§8] §6§l> §fВаш баланс: §6{crips}, {rubles}",
-    "by": "§8[§6§lJM§8] §6§l> §fВаш баланс: §6{crips}, {rubles}"
+    "ru": "§8[§6§lJM§8] §6§l> §fВаш баланс: §6{crips}§f, §6{rubles}",
+    "en": "§8[§6§lJM§8] §6§l> §fYour balance: §6{crips}§f, §6{rubles}",
+    "ua": "§8[§6§lJM§8] §6§l> §fВаш баланс: §6{crips}§f, §6{rubles}",
+    "by": "§8[§6§lJM§8] §6§l> §fВаш баланс: §6{crips}§f, §6{rubles}"
   },
   "PAY_NO_ENOUGH": {
     "ru": "§8[§6§lJM§8] §6§l> §fУ вас недостаточно крипсов!"
