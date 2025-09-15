@@ -275,6 +275,21 @@
   "PLAYTIME": {
     "ru": "§8[§6§lJM§8] §6§l> §fВы наиграли: §6{playtime}"
   },
+  "RANDOM_TELEPORT_NO_FOOD": {
+    "ru": "§8[§6§lJM§8] §6§l> §fУ вас не хватает §6{food} §fединиц еды для телепортации!"
+  },
+  "RANDOM_TELEPORT_TITLE": {
+    "ru": "§6Телепортация"
+  },
+  "RANDOM_TELEPORT_FIND": {
+    "ru": "§fПоиск локации..."
+  },
+  "RANDOM_TELEPORT_SUCCESS": {
+    "ru": "§fЛокация найдена"
+  },
+  "RANDOM_TELEPORT_NO_FOUND": {
+    "ru": "§8[§6§lJM§8] §6§l> §fЛокации для телепортации не найдена. Попробуйте еще раз!"
+  },
   "REPAIR_ALL": {
     "ru": "§8[§6§lJM§8] §6§l> §fВы починили все свои предметы"
   },
