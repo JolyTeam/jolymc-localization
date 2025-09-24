@@ -27,10 +27,10 @@
     "ru": "§8[§6§lJM§8] §6§l> §fПодождите немного перед отправкой повторного сообщения в чат!"
   },
   "CHAT_GLOBAL": {
-    "ru": "§8[§aG§8] {player} §8: {message}"
+    "ru": "§8[§aG§8] {player}§8: {message}"
   },
   "CHAT_LOCAL": {
-    "ru": "§8[§7L§8] {player} §8: {message}"
+    "ru": "§8[§7L§8] {player}§8: {message}"
   },
   "CHAT_ANNOUNCE_PROFANITY": {
     "ru": "§fВ вашем сообщение содержится ненормативная лексика!"
