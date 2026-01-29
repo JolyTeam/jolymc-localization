@@ -55,11 +55,14 @@
   "INVENTORY_ASK_EMPTY": {
     "ru": "§cУпс, ничего не найдено :c"
   },
+  "INVENTORY_LIMIT": {
+    "ru": "§8[§6§lJM§8] §6§l> §fСлишком много запросов задано разработчикам. Попробуйте повторить попытку позже."
+  },
   "INVENTORY_ASK_STAFF_DELETE": {
-    "ru": "§8[§6§lJM§8] §6§l> §f{staff_group} {staff} §fудалил вопрос игрока {player} §8(§6{ask}§8)"
+    "ru": "§8[§6§lJM§8] §6§l> §f{staff} §fудалил вопрос игрока {player} §8(§6{ask}§8)"
   },
   "INVENTORY_ASK_PLAYER_DELETE": {
-    "ru": "§8[§6§lJM§8] §6§l> §fИгрок {staff} §fудалил ваш вопрос! §8(§6{ask}§8)"
+    "ru": "§8[§6§lJM§8] §6§l> §fИгрок {staff} §fудалил ваш вопрос!"
   },
   "INVENTORY_ASK_PLAYER_REPLY": {
     "ru": "§8[§6§lJM§8] §6§l> §fДля ответа на вопрос игрока {player} §fнажмите на кнопку ниже"
